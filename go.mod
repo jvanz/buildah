@@ -9,7 +9,7 @@ require (
 	github.com/containers/image/v5 v5.0.0
 	github.com/containers/storage v1.15.3
 	github.com/cyphar/filepath-securejoin v0.2.2
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.0+incompatible
 	github.com/docker/docker-credential-helpers v0.6.1 // indirect
 	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/docker/go-units v0.4.0
