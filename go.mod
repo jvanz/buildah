@@ -22,7 +22,7 @@ require (
 	github.com/ishidawataru/sctp v0.0.0-20180918013207-6e2cb1366111 // indirect
 	github.com/mattn/go-shellwords v1.0.6
 	github.com/morikuni/aec v1.0.0 // indirect
-	github.com/onsi/ginkgo v1.10.3
+	github.com/onsi/ginkgo v1.11.0
 	github.com/onsi/gomega v1.7.1
 	github.com/opencontainers/go-digest v1.0.0-rc1
 	github.com/opencontainers/image-spec v1.0.2-0.20190823105129-775207bd45b6
@@ -32,7 +32,7 @@ require (
 	github.com/opencontainers/selinux v1.3.0
 	github.com/openshift/api v3.9.1-0.20190810003144-27fb16909b15+incompatible
 	github.com/openshift/imagebuilder v1.1.1
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/seccomp/containers-golang v0.0.0-20180629143253-cdfdaa7543f4
 	github.com/seccomp/libseccomp-golang v0.9.1
 	github.com/sirupsen/logrus v1.4.2
@@ -43,10 +43,7 @@ require (
 	github.com/vishvananda/netlink v1.0.0 // indirect
 	github.com/vishvananda/netns v0.0.0-20190625233234-7109fa855b0f // indirect
 	github.com/xeipuuv/gojsonschema v1.1.0 // indirect
-	golang.org/x/crypto v0.0.0-20190927123631-a832865fa7ad
-	golang.org/x/sys v0.0.0-20191127021746-63cb32ae39b2
-	golang.org/x/time v0.0.0-20190921001708-c4c64cad1fd0 // indirect
-	google.golang.org/grpc v1.24.0 // indirect
-	k8s.io/api v0.0.0-20190813020757-36bff7324fb7 // indirect
-	k8s.io/client-go v0.0.0-20181219152756-3dd551c0f083 // indirect
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/sys v0.0.0-20200622214017-ed371f2e16b4
+	k8s.io/client-go v0.20.0-alpha.2 // indirect
 )
